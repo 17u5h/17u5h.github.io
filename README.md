@@ -1,6 +1,6 @@
 # 17u5h.github.io
 
-Продакшн билд учебного пет-проекта
+build собран в режиме production, devtool: 'hidden-source-map'
 
 Игра: угадай пары карт.
 
